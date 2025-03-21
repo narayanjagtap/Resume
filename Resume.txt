@@ -28,11 +28,11 @@
 % Header
 \begin{center}
     {\LARGE \textbf{NARAYAN PANDURANG JAGTAP}} \\ \vspace{3pt}
-    \faPhone ~ +91 7498698119 \quad
-    \faEnvelope ~ \href{mailto:sj967834@gmail.com}{sj967834@gmail.com} \quad
+    \faPhone ~ \href{tel:+917498698119}{+91 7498698119} \quad
+    \faEnvelope ~ \href{mailto:sj967334@gmail.com}{sj967334@gmail.com} \quad
     \faMapMarker ~ Pune \\ \vspace{3pt}
     \faGithub ~ \href{https://github.com/narayanjagtap}{narayanjagtap} \quad
-    \faLinkedin ~ \href{https://linkedin.com/in/narayanpjagtap}{narayanpjagtap} \quad
+    \faLinkedin ~ \href{https://www.linkedin.com/in/narayanpjagtap}{narayanpjagtap} \quad
     \faGlobe ~ \href{https://narayanjagtap.github.io/NarayanaPortfolio/}{Portfolio}
 \end{center}
 
