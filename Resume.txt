@@ -28,8 +28,8 @@
 % Header
 \begin{center}
     {\LARGE \textbf{NARAYAN PANDURANG JAGTAP}} \\ \vspace{3pt}
-    \faPhone ~ 7498698119 \quad
-    \faEnvelope ~ \href{mailto:sj967834@gmail.com}{Email Me} \quad
+    \faPhone ~ +91 7498698119 \quad
+    \faEnvelope ~ \href{mailto:sj967834@gmail.com}{sj967834@gmail.com} \quad
     \faMapMarker ~ Pune \\ \vspace{3pt}
     \faGithub ~ \href{https://github.com/narayanjagtap}{narayanjagtap} \quad
     \faLinkedin ~ \href{https://linkedin.com/in/narayanpjagtap}{narayanpjagtap} \quad
@@ -42,41 +42,41 @@ Aspiring Software Engineer with expertise in Java, SQL, and web development. Pas
 
 % Education
 \section*{Education}
-\textbf{Bachelor of Engineering in Information Technology} \hfill \textbf{CGPA: 7.15} \\
-PDEA's COEM, Pune (SPPU) \hfill \textit{Jul 2021 - May 2025}\\[1ex]
+\textbf{Bachelor of Engineering in Information Technology} \hfill \textbf{CGPA: 7.15/10} \\
+PDEA's COEM, Pune (SPPU) \hfill \textit{2021 - 2025}\\[1ex]
 \textbf{HSC} \hfill \textbf{90.30\%} \\
-Dr. Chandrabhanu Sonvane Jr College, Latur \hfill \textit{Apr 2020 - Apr 2021}\\[1ex]
+Dr. Chandrabhanu Sonvane Jr College, Latur \hfill \textit{2020 - 2021}\\[1ex]
 \textbf{SSC} \hfill \textbf{81.60\%} \\
-Parimal High School, Latur \hfill \textit{Apr 2018 - Apr 2019}
+Parimal High School, Latur \hfill \textit{2018 - 2019}
 
-% Projects
 \section*{Projects}
 \begin{itemize}[leftmargin=*]
 
-    \item \textbf{Image Gallery Project} \\
+    \item \textbf{\href{https://github.com/narayanjagtap/Image-Gallery-Project.git}{Image Gallery Project}} \hfill \textit{- 2025}\\[1ex]
     \textit{Technologies:} Java (JSP, Servlets), MySQL, MVC Architecture \\
     - Developed a web-based image gallery application with functionalities to upload, view, delete, and manage images. \\
     - Implemented user authentication, pagination, and profile management. \\
     - Ensured scalability and security with efficient database interactions.
 
-    \item \textbf{Note Taker} \\
+    \item \textbf{\href{https://github.com/narayanjagtap/Note-Taker-Project.git}{Note Taker}} \hfill \textit{- 2025}\\[1ex]
     \textit{Technologies:} Java (JSP, Servlets), Hibernate, MySQL, Bootstrap, Maven, MVC Architecture \\
     - Built a web-based application to create, edit, delete, and manage notes efficiently. \\
     - Designed a user-friendly interface with Bootstrap for an intuitive experience. \\
     - Followed MVC architecture for maintainability and scalability.
 
-    \item \textbf{Registration and Login System} \\
+    \item \textbf{\href{https://github.com/narayanjagtap/RegistrationAndLoginProject-Thymeleaf-SpringDataJPA.git}{Registration and Login System}} \hfill \textit{- 2025}\\[1ex]
     \textit{Technologies:} Spring Boot, Thymeleaf, Spring Data JPA, MySQL, Maven \\
     - Created a secure web-based user authentication system with registration and login features. \\
     - Implemented profile management and data persistence using Spring Data JPA. \\
     - Integrated Thymeleaf for dynamic and responsive web pages.
 
-    \item \textbf{Portfolio Website} \\
+    \item \textbf{\href{https://github.com/narayanjagtap/NarayanaPortfolio.git}{Portfolio Website}} \hfill \textit{- 2024}\\[1ex]
     \textit{Technologies:} HTML, CSS, JavaScript \\
     - Developed a personal portfolio website showcasing projects and skills. \\
     - Ensured a responsive and visually appealing design for an optimal user experience.
 
 \end{itemize}
+
 
 % Skills
 \section*{Skills}
@@ -93,9 +93,9 @@ Parimal High School, Latur \hfill \textit{Apr 2018 - Apr 2019}
 
 % Certificates
 \section*{Certificates}
-\begin{itemize}[leftmargin=*]
-    \item Java Full Stack Development - YESS INFOTECH (Jan 2025)
-    \item Front-End Development Certification - Great Learning (2024)
+\begin{itemize}[leftmargin=*, itemsep=1pt, parsep=0pt]
+    \item Java Full Stack Development - YESS INFOTECH \hfill \textit{(2024-25)} \\
+    \item Front-End Development Certification - Great Learning \hfill \textit{(2024)}
 \end{itemize}
 
 % Languages
